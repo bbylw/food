@@ -22,10 +22,10 @@
   ],
   "author": "邪修菜单团队",
   "license": "MIT",
-  "homepage": "https://your-username.github.io/evil-cooking-menu",
+  "homepage": "https://bbylw.github.io/food",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/evil-cooking-menu.git"
+    "url": "https://github.com/bbylw/food.git"
   },
   "devDependencies": {
     "gh-pages": "^6.0.0",

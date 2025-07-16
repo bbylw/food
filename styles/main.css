@@ -405,6 +405,47 @@ body {
   align-items: center;
   font-size: 0.9rem;
   color: #888;
+  margin-bottom: 1rem;
+}
+
+.recipe-actions {
+  margin-bottom: 1rem;
+}
+
+.toggle-steps-btn {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-steps-btn:hover {
+  background-color: #c0392b;
+}
+
+.recipe-steps {
+  border-top: 1px solid #eee;
+  padding-top: 1rem;
+  margin-top: 1rem;
+}
+
+.recipe-steps h4 {
+  margin-bottom: 0.5rem;
+  color: #2c3e50;
+}
+
+.recipe-steps ol {
+  padding-left: 20px;
+  color: #666;
+  line-height: 1.8;
+}
+
+.recipe-card.is-expanded {
+  /* Optional: Add a style for when the card is expanded */
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
 }
 
 /* 法器指南区域 */

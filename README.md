@@ -88,8 +88,8 @@ npx serve .
 
 简单来说：
 
-- **想提交新食谱？** 👉 [**点击这里创建一个新食谱提议**](https://github.com/your-username/evil-cooking-menu/issues/new/choose)
-- **发现网站有问题？** 👉 [**点击这里报告一个 Bug**](https://github.com/your-username/evil-cooking-menu/issues/new/choose)
+- **想提交新食谱？** 👉 [**点击这里创建一个新食谱提议**](https://github.com/bbylw/food/issues/new/choose)
+- **发现网站有问题？** 👉 [**点击这里报告一个 Bug**](https://github.com/bbylw/food/issues/new/choose)
 
 我们期待你的 Pull Request 和 Issue！
 
